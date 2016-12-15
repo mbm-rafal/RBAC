@@ -4,6 +4,13 @@ Powerful package for handling roles and permissions in Laravel 5.3
 
 Based on the [Bican/Roles](https://github.com/romanbican/roles/) Package.
 
+
+### Fork for what ?
+
+Implementing 3rd and 4th level of RBAC with features:
+
+- Policies
+
 ### So whats Different?
 
 The difference is how [Inheritance](#inheritance) work. With Bican/Roles, permissions are inherited based on your highest `role level`.
